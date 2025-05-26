@@ -1,0 +1,42 @@
+[
+  {
+    "employeeId": "EMP001",
+    "name": "Alice Johnson",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "email": "alice.johnson@example.com",
+    "salary": 75000
+  },
+  {
+    "employeeId": "EMP002",
+    "name": "Bob Smith",
+    "designation": "Senior Developer",
+    "department": "Engineering",
+    "email": "bob.smith@example.com",
+    "salary": 90000
+  },
+  {
+    "employeeId": "EMP003",
+    "name": "Carol Davis",
+    "designation": "Project Manager",
+    "department": "Operations",
+    "email": "carol.davis@example.com",
+    "salary": 105000
+  },
+  {
+    "employeeId": "EMP004",
+    "name": "David Lee",
+    "designation": "Business Analyst",
+    "department": "Strategy",
+    "email": "david.lee@example.com",
+    "salary": 85000
+  },
+  {
+    "employeeId": "EMP005",
+    "name": "Emma Wilson",
+    "designation": "QA Engineer",
+    "department": "Quality Assurance",
+    "email": "emma.wilson@example.com",
+    "salary": 70000
+  }
+]
